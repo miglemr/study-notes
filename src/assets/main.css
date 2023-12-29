@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1,
+label {
+  font-family: 'Inter Tight', sans-serif;
+  font-weight: 700;
+}
