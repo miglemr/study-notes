@@ -4,9 +4,15 @@
 
 Study Notes App is a tool for efficient and organized note-taking. Seamlessly bring together all your study notes in a centralized hub. You can add notes, code snippets and links to useful articles and videos. Organize notes by categories and folders that enable quick and intuitive access to relevant information.
 
+![image](https://github.com/miglemr/study-notes/assets/113340648/80324aa4-7b36-4b80-8e4f-547f909d0e61)
+
+![image](https://github.com/miglemr/study-notes/assets/113340648/a355ff23-2270-48fc-a1e4-3e718da5ef16)
+
+![image](https://github.com/miglemr/study-notes/assets/113340648/c00ada02-768b-4ade-b9ad-fa84b5aef4c3)
+
 ## Built With
 
-<div align="center">
+<div align="left">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
@@ -15,6 +21,8 @@ Study Notes App is a tool for efficient and organized note-taking. Seamlessly br
 </div>
 
 ## Project Setup
+
+### Install dependencies
 
 ```sh
 npm install
